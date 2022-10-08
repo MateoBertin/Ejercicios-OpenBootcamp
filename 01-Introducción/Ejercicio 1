@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ejercicio de Introducciçon a HTML en OpenBootcamp</title>
+</head>
+
+<body>
+  <!--
+  Este es mi primer comentario de dos líneas
+  Aprendiendo a documentar mi código con OpenBootcamp
+  -->
+  <div>
+    <ul>
+      <li><a href="https://youtu.be/5D33B1n991s">2022 Recession: How To Get Rich</a></li>
+      <li><a href="https://youtu.be/w1qX-bpHXgQ">viendo tiktoks y comiendo fideos 🍜</a></li>
+      <li><a href="https://youtu.be/e9dZQelULDk">Happiness</a></li>
+    </ul>
+  </div>
+</body>
+
+</html>
