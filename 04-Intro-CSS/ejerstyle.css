@@ -1,0 +1,11 @@
+body {
+  margin: 20px;
+}
+
+#elemento-1 {
+  color: #f00;
+}
+
+ul #elemento-1 {
+  font-size: 2rem;
+}
